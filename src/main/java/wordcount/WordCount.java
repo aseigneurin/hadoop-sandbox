@@ -19,8 +19,8 @@ public class WordCount {
         conf.setOutputValueClass(IntWritable.class);
 
         // specify input and output dirs
-        FileInputFormat.setInputPaths(conf, new Path("input"));
-        FileOutputFormat.setOutputPath(conf, new Path("output"));
+        FileInputFormat.setInputPaths(conf, new Path("wordcount-input"));
+        FileOutputFormat.setOutputPath(conf, new Path("wordcount-output"));
 
         // specify a mapper
         conf.setMapperClass(WordCountMapper.class);
