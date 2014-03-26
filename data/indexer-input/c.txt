@@ -1,0 +1,91 @@
+Sample text for Rob Neyer's big book of baseball blunders : a complete guide to the worst decisions and stupidest moments in baseball history / Rob Neyer.
+
+
+Bibliographic record and links to related information available from the Library of Congress catalog
+
+
+Copyrighted sample text provided by the publisher and used with permission. May be incomplete or contain other coding.
+
+Counter
+"What's a blunder?"
+
+When I told people...cab drivers, deliverymen, the produce guy at the grocery store...I was writing a book about baseball blunders, that was always what they wanted to know. What's a blunder?
+
+Here's what a blunder isn't: a blunder isn't a physical mistake or an error of judgment in the heat of the moment. In other words, in my book (in this book) it's only a blunder if there was premeditation. Bill Buckner did not blunder when he let that ball squirt between his legs; John McNamara did blunder when he let Bill Buckner let that ball squirt between his legs.
+
+So that's one requirement: the blunder must be premeditated. Somebody has to have thought, "Hey, this would be a good idea."
+
+Another requirement: a reasonable person might, at the time, have made a reasonable case for doing something else. It's impossible to avoid the temptation of hindsight, and I'm not going to ignore a player's on-base percentage simply because his manager had never heard of on-base percentage. But I'll be as fair as I can be.
+
+And thirdly -- or rather, ideally, because some of the blunders in this book don't completely meet this test -- the blunder must have led to some reasonably ill outcome. You're not going to find much in this book about the St. Louis Browns or the Boston Braves or other similarly woebegotten franchises, because their fortunes were far beyond the reach of just one move, good or bad. In fact, many of the blunders within were committed by good teams and good managers and good general managers. Their blunders are generally the ones that mattered.
+
+Premeditation. Contemporary questionability. III effects. That's the perfect blunder. And most of the blunders in this book are, to me at least, perfect. Occasionally I've fudged a bit on the last of those categories, but I think you'll agree with me that, even if the Indians' ten-cent Beer Night did no lasting damage, it was a pretty crummy idea.
+
+Some might argue that it's cruel of me to highlight the failures of my fellow men. After all, haven't they suffered enough? Well, maybe they have. But 1) many of the men featured within these pages are no longer walking this earth, and 2) there's nothing I'm going to write that hasn't been written elsewhere, and with less compassion than I've got in my medium-sized heart.
+
+And again, this book isn't about mistakes. Every pitcher grooves the occasional slider, every hitter sometimes misses a hit-me fastball in the middle of the strike zone, and every umpire blows a big call every so often. But there's only so much we can do with those. Yes, Luis Aparicio slipped as he rounded third base in a big game in 1972, and if he hadn't slipped the Red Sox might have wound up in the World Series. Yes, the umpires blew any number of calls during the 2005 World Series, without which the Astros might at least have won a game or two.
+
+But what are we supposed to do with those? I remember reading about an umpire who, when he got a call wrong and knew it, would tell the protesting manager, "Okay, so I missed that one. Now what do we do?"
+
+We can use Luis Aparicio to illustrate a cautionary tale about taking special care when rounding third base, and we can use Don Denkinger to argue for the use of instant replay in important baseball games. But then what do we do? We can't really hold Aparicio or Denkinger responsible for what happened -- they weren't trying to do what they did -- and neither can we really learn much from what happened. All of which is my long-winded way of saying that this book isn't about Luis Aparicio and Don Denkinger or any of the other thousands of players and umpires who have, at some key moment in baseball history, messed up. This book is, for the most part, about managers and general managers and owners who sat down, considered something for at least a moment, and said, "I sure think this would be a good idea." Except it wasn't.
+
+A Note about Statistics
+
+For better or worse, this book isn't filled with sophisticated statistical methods. It's not that I don't care about such things. If you've read my work in other places, you know that I do. It's just that I've found that blunt instruments do, for the most part, tell us most of what we want to know.
+
+You will find, in these pages, a few statistical measures that you don't see in your newspaper every day, but they're nothing to get worked up about.
+
+"ERA+" is simply the ratio of the league ERA to the pitcher's ERA (adjusted for the pitcher's home ballpark). An ERA+ of 100 is dead average. Anything above 100 is better than average, anything below 100 is worse than average, and yes it's really that simple. My source for ERA+ (and many of the other statistics in this book) was www.baseball-reference.com. (My other primary source for statistics was www.retrosheet.org, which is only the greatest Web site in the history of the InterWeb.)
+
+Win Shares are somewhat more complicated, but here's what you need to know: Win Shares were invented by Bill James. Win Shares are published in Total Baseball and various other books and Web sites. Win Shares represent an effort to sum a player's total value to his team, including hitting, pitching, fielding, and base-stealing. Three Win Shares equals one win (so a player with thirty Win Shares is worth three wins more than a player with twenty-one Win Shares). And why Win Shares? Because Win Shares are the best tool we've got for evaluating the long-term impact of trades, and trades occasionally will come up in the pages that follow.
+
+Sometimes I'll write that a player "batted .300"; that means his batting average was .300. Sometimes I'll write that a player "batted .300/.400/.500"; those numbers are his batting average, his on-base percentage, and his slugging percentage.
+
+And that's about it. I told you, I'm not sophisticated.
+
+A Note about Tables
+
+I can't help myself. I just love 'em. I wrote another book a few years ago, with a title similar to this one, that was essentially three hundred pages of tables. Nobody squawked, because the book wouldn't have worked without tables. This one, though, would've been just fine without them, and if one hundred authors were asked to write a book like this one, ninety-five would make do without any tables (or with many fewer of them).
+
+I like them, though, so I use them. Don't be afraid. They're just more words, except they look like numbers (or maybe the words are numbers, except they look like words; I can't remember).
+
+A Note About the Old Days
+
+You're not going to find much about them here. I tried. I really did. I asked all my friends to suggest long-ago blunders, and I even came up with a few candidates on my own.
+
+In 1890, the players formed their own league. They called it the Players' League. Most of the best players joined up, and I suspect one could make a fairly convincing argument that the National League in 1890, bereft of its stars, wasn't really a "major" league at all. The Players' League competed directly against the National League in seven cities, and attracted more fans in five of them. Both leagues lost a great deal of money, and after the season the Players' League -- especially the nonplayers who provided most of the financial backing -- blinked first during negotiations with the National. The players would have to wait for another eighty-five years for some measure of justice.
+
+Following the 1899 season, the National League contracted, shedding franchises in Baltimore, Louisville, Washington, and Cleveland. This came near the end of a period in which the magnates practiced something called "syndicate baseball," whereby many owners had financial interests in more than one team. You can, I suspect, see the problem with such an arrangement, and in '99 this was manifested in its illogical extreme, as the Cleveland Spiders won twenty games and lost 134.
+
+Contraction helped foster the nascent American League, which opened play in 1900 with a team in Cleveland, and in 1901 shifted franchises to Baltimore and Washington. That began a sort of war between the leagues, which wound up costing everybody a lot of money. And the National League owners might have saved themselves the headache if they'd kept franchises in Washington and Cleveland, placed new franchises in Detroit and New York, and formed two six-team divisions. (Yes, I know this takes some imagination. Now you see why this doesn't get its own chapter.)
+
+In 1908, Fred Merkle neglected to touch second base in a big game late in the season. This was certainly a blunder -- actually, at the time it was called a "boner" -- but for the purposes of this book, it wasn't a "blunder" because Merkle didn't think about not touching second base. It was more or less an accepted practice, and he certainly didn't consider the possible ramifications.*
+
+On the last day of the 1910 season, the St. Louis Browns conspired to throw the American League batting title to Nap Lajoie, and away from Ty Cobb. The winner of the title had been promised a shiny new Chalmers "30" automobile, and just about everybody in the American League was pulling for Lajoie. Cobb, apparently with a safe lead in the race, decided to skip the Tigers' last two games. To catch Cobb, Lajoie would need a hit in nearly every at-bat during a doubleheader against the Browns on the season's final day. And thanks to the Browns, that's what Lajoie did.
+
+Browns manager Jack O'Connor told rookie third baseman Red Corriden to play deep when Lajoie batted. Real deep. Lajoie tripled in his first at-bat. In each of his next eight at-bats, though, Lajoie bunted toward third base, and was credited with seven hits and one fielder's choice. (After the fielder's choice, Browns coach Harry Howell sent a note to the official scorer, offering to buy the scorer a new suit if he would change his ruling.)
+
+The results? They're complicated. Lajoie went 8 for 9, but when the figures were computed, Cobb was still ahead by a single point, .385 to .384.Ý In the end, though, Chalmers awarded automobiles to both players, O'Connor and Howell were both fired, and Ban Johnson "used his vast influence to ensure that neither man found a job with a team in Organized Baseball."
+
+So yes, there were some blunders there. There were others, I'm sure. Connie Mack's decision to break up his pennant-winning A's after the 1914 World Series certainly looks strange to us, today. But the first blunder that gets the full treatment in this book happened in 1917.
+
+A Note About Our Sad Legacy
+
+Segregation wasn't a blunder.
+
+From 1884 through 1945, every major league and perhaps every minor league in so-called "Organized Baseball" enforced a strict policy that excluded any man who might be considered a "Negro" (in the parlance of the time). And after 1945? For every team, from the Dodgers to the Red Sox, you'll find a story about a team that could have signed Jackie Robinson -- or Satchel Paige, or Willie Mays, or some other future Hall of Famer -- but didn't, because his skin wasn't the right color.
+
+That's not a blunder. That's a crime. I've left this crime out of the book because of its enormity, and because there's a sameness to the stories. Yes, maybe the Red Sox had a clear look at Jackie Robinson but weren't interested because they were racists. But what about the Athletics and the Yankees and the Browns and all the rest of the teams?
+
+Yes, the Red Sox were particularly slow to integrate. And yes, this probably hurt their chances in the American League during the 1950s and early '60s. The Yankees' general lack of interest in black players probably started showing up on the field in the early '60s, and thus was an instrument in their sudden decline. Serious books have been written about the failures of all the teams, and about the failures of specific teams, to integrate earlier and more effectively. All those books are worth reading, but I didn't believe I could do the topic justice in this particular book.
+
+A Final Word
+
+Enjoy.
+
+Copyright © 2006 by Rob Neyer
+
+
+
+Library of Congress subject headings for this publication: 
+Baseball -- United States -- History.
