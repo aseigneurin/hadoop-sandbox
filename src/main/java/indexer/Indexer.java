@@ -25,7 +25,7 @@ public class Indexer {
 
         conf.setMapperClass(IndexerMapper.class);
         conf.setReducerClass(IndexerReducer.class);
-        conf.setCombinerClass(IndexerReducer.class);
+        conf.setCombinerClass(IndexerCombiner.class);
 
         FileInputFormat.setInputPaths(conf, new Path("indexer-input"));
         FileOutputFormat.setOutputPath(conf, new Path("indexer-output"));
