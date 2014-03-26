@@ -14,6 +14,8 @@ public class IndexerMapper extends MapReduceBase implements Mapper<LongWritable,
 
     @Override
     public void map(LongWritable key, Text value, OutputCollector<Text, Text> output, Reporter reporter) throws IOException {
+        reporter.setStatus("Mapper: " + value);
+
         FileSplit file = (FileSplit) reporter.getInputSplit();
         Text filename = new Text(file.getPath().getName());
 

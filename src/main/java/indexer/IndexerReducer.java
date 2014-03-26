@@ -18,6 +18,8 @@ import java.util.TreeSet;
 public class IndexerReducer extends MapReduceBase implements Reducer<Text, Text, Text, Text> {
     @Override
     public void reduce(Text key, Iterator<Text> values, OutputCollector<Text, Text> output, Reporter reporter) throws IOException {
+        reporter.setStatus("Reducer: " + key);
+
         Set<String> filenames = new TreeSet<String>();
         while (values.hasNext()) {
             String filename = values.next().toString();
